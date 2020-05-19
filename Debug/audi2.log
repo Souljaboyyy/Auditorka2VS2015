@@ -1,0 +1,5 @@
+﻿  main.c
+d:\audi2\audi2\main.c(49): warning C4013: 'getche' undefined; assuming extern returning int
+d:\audi2\audi2\main.c(19): warning C4101: 'y': unreferenced local variable
+  audi2.vcxproj -> D:\audi2\Debug\audi2.exe
+  audi2.vcxproj -> D:\audi2\Debug\audi2.pdb (Partial PDB)
